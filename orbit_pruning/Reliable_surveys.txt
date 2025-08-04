@@ -1,0 +1,9 @@
+G96 Mt. Lemmon Survey
+F51 Pan-STARRS 1, Haleakala
+F52 Pan-STARRS 2, Haleakala
+I41 Palomar Mountain/ZTF
+V06 Catalina Sky Survey-Kuiper
+703 Catalina Sky Survey
+I52 Steward Observatory, Mt. Lemmon Station
+T05 ATLAS-HKO, Haleakala
+T08 ATLAS-MLO, Mauna Loa
